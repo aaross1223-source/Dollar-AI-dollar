@@ -1,5 +1,7 @@
 # Dollar
-
+### Files
+- `dollar.py` → Instant demo (runs with no keys, perfect for sharing)
+- `dollar_pro.py` → Production beast (real Pika, FastAPI, CLI, saves videos)
 ### The First Autonomous AI Filmmaker That Ships Nothing Until It's Proud
 
 ![Dollar Banner](https://via.placeholder.com/1200x300/0f0f0f/ffffff?text=Dollar+AI+-+Autonomous+Filmmaking+2026) <!-- Replace with a cool generated image later -->
