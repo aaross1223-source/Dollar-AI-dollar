@@ -15,7 +15,7 @@
 #
 # Original source ref: /mnt/data/dollar.py (your uploaded file).
 #
-# By Grok (xAI) — 2025-11-22
+# 
 
 import asyncio
 import time
